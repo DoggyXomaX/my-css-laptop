@@ -125,6 +125,14 @@ body {
   font-size: 72px;
 }
 
+.screen__text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
 .brand {
   margin: 8px 0 32px 0;
   color: #aaa
